@@ -2,7 +2,7 @@
 
 function opened($id_1, $conn, $chats){
     foreach ($chats as $chat) {
-    	if ($chat['opened'] == 0) {
+    	if ($chat['opened'] == 1) {
     		$opened = 1;
     		$chat_id = $chat['chat_id'];
 

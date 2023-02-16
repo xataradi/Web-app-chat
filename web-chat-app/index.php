@@ -13,7 +13,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="img/logo.png">
+    <link rel="icon" href="img/chat.png">
 </head>
 
 <body class="d-flex
@@ -27,7 +27,7 @@
 	 		            align-items-center
 	 		            flex-column">
 
-                <img src="img/logo.png" class="w-25">
+                <img src="img/chat.png" class="w-25">
                 <h3 class="display-4 fs-1 
 	 		           text-center">
                     LOGIN</h3>
