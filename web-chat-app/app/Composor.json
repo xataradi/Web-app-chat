@@ -1,0 +1,5 @@
+{
+    "require": {
+        "superbalist/php-pubsub-kafka": "^4.0.0"
+    }
+}

@@ -42,8 +42,7 @@
 			            align-items-center">
     			<div class="d-flex
     			            align-items-center">
-    			    <img src="uploads/<?=$user['p_p']?>"
-						 // src="uploads/user-default.png"	
+    			    <img src="uploads/<?=$user['p_p']?>"	
     			         class="w-25 rounded-circle">
                     <h3 class="fs-xs m-2"><?=$user['name']?></h3> 
     			</div>
